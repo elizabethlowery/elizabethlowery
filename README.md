@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elizabethlowery
+- 👀 I’m interested in becoming a data scientist 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on biological data
+- 📫 Reach me at ellehumes@gmail.com
